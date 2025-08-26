@@ -59,3 +59,4 @@ loop do
   end
 end
 
+puts "Hello Class"
