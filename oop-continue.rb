@@ -118,22 +118,22 @@ end
 
 
 
-class Person
-  def initialize(name, age)
-    @name = name
-    @age = age
-  end
+# class Person
+#   def initialize(name, age)
+#     @name = name
+#     @age = age
+#   end
 
-  def introduce
-    return "This is #{@name} and they're #{@age} years old."
-  end
-end
+#   def introduce
+#     return "This is #{@name} and they're #{@age} years old."
+#   end
+# end
 
-p1 = Person.new("Ed", 4)
-p p1.introduce
+# p1 = Person.new("Ed", 4)
+# p p1.introduce
 
-p2 = Person.new("Alanna", 23)
-p p2.introduce
+# p2 = Person.new("Alanna", 23)
+# p p2.introduce
 
 
 
